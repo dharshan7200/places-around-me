@@ -123,12 +123,13 @@ now run the server and take the screenshot of the outputs.
 
 ## Output:
 
-[!OUTPUT](./placesaroundme.JPG)
-[!OUTPUT](./church.JPG)
-[!OUTPUT](./dak.JPG)
-[!OUTPUT](./dazzling.JPG)
-[!OUTPUT](./saibuilders.JPG)
-[!OUTPUT](./technology.JPG)
+
+[!PLACESAROUNDME](./placesaroundme.JPG)
+[!CHURCH](./church.JPG)
+[!CHURCH](./dak.JPG)
+[!CHURCH](./dazzling.JPG)
+[!CHURCH](./saibuilders.JPG)
+[!CHURCH](./technology.JPG)
 
 ## Result:
 The program is created successfully
