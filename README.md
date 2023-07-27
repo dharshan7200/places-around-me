@@ -122,6 +122,7 @@ now run the server and take the screenshot of the outputs.
 ```
 
 ## Output:
+
 [!OUTPUT](./placesaroundme.JPG)
 [!OUTPUT](./church.JPG)
 [!OUTPUT](./dak.JPG)
