@@ -122,14 +122,13 @@ now run the server and take the screenshot of the outputs.
 ```
 
 ## Output:
-
-
-[!PLACESAROUNDME](./placesaroundme.JPG)
 [!CHURCH](./church.JPG)
 [!dak](./dak.JPG)
 [!DAZZLING](./dazzling.JPG)
 [!SAIBUILDERS](./saibuilders.JPG)
 [!TECHNOLOGY](./technology.JPG)
+## SERVEROUTPUT:
+[!PLACESAROUNDME](./placesaroundme.JPG)
 
 ## Result:
 The program is created successfully
