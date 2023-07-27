@@ -131,4 +131,4 @@ now run the server and take the screenshot of the outputs.
 [!OUTPUT](./technology.JPG)
 
 ## Result:
-The program is created successfully.
+The program is created successfully
