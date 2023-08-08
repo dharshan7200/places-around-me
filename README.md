@@ -122,13 +122,18 @@ now run the server and take the screenshot of the outputs.
 ```
 
 ## Output:
-[!CHURCH](./church.JPG)
-[!dak](./dak.JPG)
-[!DAZZLING](./dazzling.JPG)
-[!SAIBUILDERS](./saibuilders.JPG)
-[!TECHNOLOGY](./technology.JPG)
+![Screenshot 2023-08-08 115605](https://github.com/dharshan7200/places-around-me/assets/138850116/cedfbb21-7ef0-469e-bcb4-19d99cebd551)
+
+![Screenshot 2023-08-08 115646](https://github.com/dharshan7200/places-around-me/assets/138850116/f384dcde-5f1c-4d4d-a749-2a0325a5c87f)
+
+![Screenshot 2023-08-08 115711](https://github.com/dharshan7200/places-around-me/assets/138850116/29e7c03a-49c3-4092-919a-f27eea739801)
+
+![Screenshot 2023-08-08 115730](https://github.com/dharshan7200/places-around-me/assets/138850116/acc3dc80-9951-481a-add3-d39e878fdeaa)
+
+![Screenshot 2023-08-08 115858](https://github.com/dharshan7200/places-around-me/assets/138850116/7759b32b-8055-4cdd-8278-35a117f1e9ce)
+
 ## SERVEROUTPUT:
-[!PLACESAROUNDME](./placesaroundme.JPG)
+
 
 ## Result:
 The program is created successfully
