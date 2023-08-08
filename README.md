@@ -133,6 +133,7 @@ now run the server and take the screenshot of the outputs.
 ![Screenshot 2023-08-08 115858](https://github.com/dharshan7200/places-around-me/assets/138850116/7759b32b-8055-4cdd-8278-35a117f1e9ce)
 
 ## SERVEROUTPUT:
+![Screenshot 2023-08-08 120123](https://github.com/dharshan7200/places-around-me/assets/138850116/f9d02026-af62-475a-a317-1982bae0c692)
 
 
 ## Result:
